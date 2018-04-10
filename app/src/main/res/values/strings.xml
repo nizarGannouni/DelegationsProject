@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FormationAndroid</string>
+    <string name="hello">Hello World!</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="description">Zaghouan est une ville du nord de la Tunisie.
+        Établie sur le versant du Djebel Zaghouan,
+        elle domine une vaste plaine agricole.
+        20798 habitants la peuplent en 2014.</string>
+    <string name="intitule">Intitulé</string>
+    <string name="phone">Phone</string>
+    <string name="adresse">Adresse</string>
+    <string name="save">Save</string>
+    <string name="nouvelleDeleg">Délégation</string>
+    <string name="all">Délégations</string>
+
+</resources>
